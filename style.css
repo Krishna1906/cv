@@ -4,6 +4,9 @@ body{
 img{
     height: 250px;
 }
+li{
+    text-size: 15px;
+}
 hr{
     border-style: none;
     border-top-style: dotted;
